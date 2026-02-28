@@ -8,7 +8,7 @@ SDK Laravel para a [API Asaas v3](https://api.asaas.com/), com cliente HTTP (ret
 ## Instalação
 
 ```bash
-composer require asaas/asaas-api-sdk-laravel
+composer require luquinhasbrito/asaas-api-sdk-laravel
 ```
 
 ## Configuração
