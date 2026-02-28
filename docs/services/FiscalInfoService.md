@@ -1,0 +1,50 @@
+# FiscalInfoService
+
+## Propósito
+
+Serviço que encapsula o recurso **Informações fiscais** da API Asaas. No Laravel expõe listagem; no Java inclui opções municipais, serviços, códigos NBS, portal nacional e CRUD de informações fiscais.
+
+---
+
+## Endpoint base
+
+- **API Asaas:** `v3/fiscalInfo`
+
+---
+
+## Laravel (asaas-api-sdk-laravel)
+
+### Classe
+
+- **Namespace e classe:** `Asaas\Laravel\Services\FiscalInfoService`
+
+### Métodos
+
+| Método | HTTP | Descrição | Parâmetros | Retorno |
+|--------|------|-----------|------------|---------|
+| `list` | GET | Lista informações fiscais | `array $params = []` (query) | `FiscalInfoList` |
+
+### Parâmetros (query/body)
+
+**Listagem:** validados por `ListFiscalInfoRequest::validate($params)`.
+
+### Models / Requests
+
+- **Models:** `FiscalInfo`, `FiscalInfoList`
+- **Requests:** `ListFiscalInfoRequest`
+
+### Exemplo (Laravel)
+
+```php
+use Asaas\Laravel\Services\FiscalInfoService;
+
+$service = app(FiscalInfoService::class);
+$list = $service->list(['limit' => 10]);
+```
+
+
+---
+
+## Referência API Asaas
+
+- [Documentação Asaas](https://docs.asaas.com) — recurso **Informações fiscais**.

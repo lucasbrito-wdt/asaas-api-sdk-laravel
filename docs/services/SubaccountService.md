@@ -1,0 +1,50 @@
+# SubaccountService
+
+## Propósito
+
+Serviço que encapsula o recurso **Subcontas** (accounts) da API Asaas. No Laravel expõe listagem em `v3/accounts`; no Java inclui listar, criar, obter e configurar escrow da subconta.
+
+---
+
+## Endpoint base
+
+- **API Asaas:** `v3/accounts`
+
+---
+
+## Laravel (asaas-api-sdk-laravel)
+
+### Classe
+
+- **Namespace e classe:** `Asaas\Laravel\Services\SubaccountService`
+
+### Métodos
+
+| Método | HTTP | Descrição | Parâmetros | Retorno |
+|--------|------|-----------|------------|---------|
+| `list` | GET | Lista subcontas | `array $params = []` (query) | `SubaccountList` |
+
+### Parâmetros (query/body)
+
+**Listagem:** validados por `ListSubaccountsRequest::validate($params)`.
+
+### Models / Requests
+
+- **Models:** `Subaccount`, `SubaccountList`
+- **Requests:** `ListSubaccountsRequest`
+
+### Exemplo (Laravel)
+
+```php
+use Asaas\Laravel\Services\SubaccountService;
+
+$service = app(SubaccountService::class);
+$list = $service->list(['limit' => 10]);
+```
+
+
+---
+
+## Referência API Asaas
+
+- [Documentação Asaas](https://docs.asaas.com) — recurso **Subcontas** / **Accounts**.
