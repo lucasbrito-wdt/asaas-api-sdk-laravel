@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Split de pagamentos** da API Asaas. No Laravel expõe listagem; no Java inclui splits pagos e recebidos.
+Serviço que encapsula o recurso **Split de pagamentos** da API Asaas. Permite listar.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/paymentSplits` (Laravel) / `v3/payments/splits/paid`, `v3/payments/splits/received` (Java)
+- **API Asaas:** `v3/paymentSplits`
 
 ---
 

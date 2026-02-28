@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Contas a pagar** (bills) da API Asaas. Permite listar contas. No Java inclui criar, simular, obter e cancelar pagamento de conta.
+Serviço que encapsula o recurso **Contas a pagar** (bills) da API Asaas. Permite listar contas.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/bills` (Laravel) / `v3/bill` (Java)
+- **API Asaas:** `v3/bills`
 
 ---
 

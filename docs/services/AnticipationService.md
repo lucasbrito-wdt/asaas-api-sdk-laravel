@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Antecipações** da API Asaas. Permite listar antecipações de recebíveis. No Java inclui também obter, criar, simular, listar configurações, limites e cancelar antecipação.
+Serviço que encapsula o recurso **Antecipações** da API Asaas. Permite listar antecipações de recebíveis.
 
 ---
 

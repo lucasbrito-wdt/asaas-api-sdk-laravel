@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Links de pagamento** da API Asaas. No Laravel expõe listagem; no Java inclui criar, obter, atualizar, remover, restaurar e gerenciar imagens do link.
+Serviço que encapsula o recurso **Links de pagamento** da API Asaas. Permite listar.
 
 ---
 

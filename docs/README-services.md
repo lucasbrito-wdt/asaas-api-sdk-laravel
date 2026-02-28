@@ -1,6 +1,6 @@
-# Índice de Serviços — SDKs Asaas (Laravel + Java)
+# Índice de Serviços — SDK Asaas (Laravel)
 
-Documentação em Markdown de todos os serviços dos SDKs **asaas-api-sdk-laravel** (PHP/Laravel) e **asaas-api-sdk-java** (Java). Cada serviço possui um documento com propósito, endpoint base, métodos, parâmetros, exemplos e referência à API Asaas.
+Documentação em Markdown de todos os serviços do SDK **asaas-api-sdk-laravel** (PHP/Laravel). Cada serviço possui um documento com propósito, endpoint base, métodos, parâmetros, exemplos e referência à API Asaas.
 
 **Total:** 33 serviços.
 
@@ -49,7 +49,7 @@ Documentação em Markdown de todos os serviços dos SDKs **asaas-api-sdk-larave
 ## Convenções
 
 - **Um arquivo por serviço:** `docs/services/<ServiceName>.md`.
-- **BaseService:** documenta o contrato base (execute, executeAndMap, buildRequest, mapeamento de erros) compartilhado por Laravel e Java.
-- **Estrutura de cada doc:** Propósito, Endpoint base, Laravel (classe, métodos, parâmetros, Models/Requests, exemplo), Java (classe, métodos sync/async, DTOs, exemplo), Referência API Asaas.
+- **BaseService:** documenta o contrato base (execute, executeAndMap, buildRequest, mapeamento de erros).
+- **Estrutura de cada doc:** Propósito, Endpoint base, Laravel (classe, métodos, parâmetros, Models/Requests, exemplo), Referência API Asaas.
 
 Ver [PLAN.md](PLAN.md) e [services-inventory.md](services-inventory.md) para detalhes do plano e inventário de endpoints/métodos.

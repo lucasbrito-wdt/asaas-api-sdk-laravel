@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Documentos da conta** da API Asaas. Permite listar e gerenciar documentos da conta (myAccount/documents). No SDK Java inclui também envio, visualização, atualização e remoção de documentos.
+Serviço que encapsula o recurso **Documentos da conta** da API Asaas. Permite listar e gerenciar documentos da conta (myAccount/documents).
 
 ---
 

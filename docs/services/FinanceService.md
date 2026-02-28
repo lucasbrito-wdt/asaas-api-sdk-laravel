@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Financeiro** da API Asaas. No Laravel expõe listagem; no Java expõe saldo, estatísticas de pagamento e de split.
+Serviço que encapsula o recurso **Financeiro** da API Asaas. Permite listar.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/finances` (Laravel) / `v3/finance/*` (Java)
+- **API Asaas:** `v3/finances`
 
 ---
 

@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula as **Ações de sandbox** da API Asaas para ambiente de testes. Permite listar ações disponíveis; no Java inclui confirmar pagamento e marcar pagamento como vencido (overdue).
+Serviço que encapsula as **Ações de sandbox** da API Asaas para ambiente de testes. Permite listar ações disponíveis.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/sandbox` (Laravel) / `v3/sandbox/payment/{id}/confirm`, `v3/sandbox/payment/{id}/overdue` (Java)
+- **API Asaas:** `v3/sandbox`
 
 ---
 

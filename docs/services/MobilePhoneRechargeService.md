@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Recarga de celular** da API Asaas. Permite listar recargas. No Java inclui criar, obter, cancelar e obter provedor.
+Serviço que encapsula o recurso **Recarga de celular** da API Asaas. Permite listar recargas.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/mobilePhoneRecharge` (Laravel) / `v3/mobilePhoneRecharges` (Java)
+- **API Asaas:** `v3/mobilePhoneRecharge`
 
 ---
 

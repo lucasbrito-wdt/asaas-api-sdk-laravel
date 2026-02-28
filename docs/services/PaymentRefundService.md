@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Reembolsos** de pagamentos da API Asaas. No Laravel expõe listagem; no Java inclui criar reembolso e reembolso de boleto.
+Serviço que encapsula o recurso **Reembolsos** de pagamentos da API Asaas. Permite listar.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/payments/refunds` (Laravel) / `v3/payments/{id}/refunds` (Java)
+- **API Asaas:** `v3/payments/refunds`
 
 ---
 

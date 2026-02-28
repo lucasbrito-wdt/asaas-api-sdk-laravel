@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Contas em garantia (escrow)** da API Asaas. No Laravel expõe listagem; no Java expõe finalização de escrow.
+Serviço que encapsula o recurso **Contas em garantia (escrow)** da API Asaas. Permite listar.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/escrow` (Laravel) / `v3/escrow/{id}/finish` (Java)
+- **API Asaas:** `v3/escrow`
 
 ---
 

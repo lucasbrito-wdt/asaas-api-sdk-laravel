@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Checkout** da API Asaas. Permite listar sessões de checkout. No Java inclui criar e cancelar checkout.
+Serviço que encapsula o recurso **Checkout** da API Asaas. Permite listar sessões de checkout.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/checkout` (Laravel) / `v3/checkouts` (Java)
+- **API Asaas:** `v3/checkout`
 
 ---
 

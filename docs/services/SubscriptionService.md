@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Assinaturas** da API Asaas. No Laravel expõe listagem; no Java inclui criar (com/sem cartão), obter, atualizar, remover, atualizar cartão, listar pagamentos da assinatura e configuração de emissão de faturas.
+Serviço que encapsula o recurso **Assinaturas** da API Asaas. Permite listar.
 
 ---
 

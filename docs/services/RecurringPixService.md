@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **PIX recorrente** da API Asaas. No Laravel expõe listagem em `v3/recurringPix`; no Java usa `v3/pix/transactions/recurrings` com listar, obter, cancelar e itens recorrentes.
+Serviço que encapsula o recurso **PIX recorrente** da API Asaas. Permite listar. em `v3/recurringPix`.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/recurringPix` (Laravel) / `v3/pix/transactions/recurrings` (Java)
+- **API Asaas:** `v3/recurringPix`
 
 ---
 

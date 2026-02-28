@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Relatórios de bureau de crédito** da API Asaas. Permite listar relatórios. No Java inclui criar e obter um relatório.
+Serviço que encapsula o recurso **Relatórios de bureau de crédito** da API Asaas. Permite listar relatórios.
 
 ---
 

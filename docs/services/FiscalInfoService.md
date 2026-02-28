@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Informações fiscais** da API Asaas. No Laravel expõe listagem; no Java inclui opções municipais, serviços, códigos NBS, portal nacional e CRUD de informações fiscais.
+Serviço que encapsula o recurso **Informações fiscais** da API Asaas. Permite listar.
 
 ---
 

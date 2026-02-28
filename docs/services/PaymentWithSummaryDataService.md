@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Pagamentos com dados resumidos** da API Asaas. No Laravel expõe listagem no path `v3/payments/summary`; no Java usa `v3/lean/payments` com CRUD, captura, restauração, reembolso e recebimento em dinheiro.
+Serviço que encapsula o recurso **Pagamentos com dados resumidos** da API Asaas. Permite listar. no path `v3/payments/summary`.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/payments/summary` (Laravel) / `v3/lean/payments` (Java)
+- **API Asaas:** `v3/payments/summary`
 
 ---
 

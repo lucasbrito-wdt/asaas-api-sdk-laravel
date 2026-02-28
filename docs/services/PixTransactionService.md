@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Transações PIX** da API Asaas. No Laravel expõe listagem em `v3/pix/transactions`; no Java inclui pagar QR code, decodificar QR code, obter, listar e cancelar transação.
+Serviço que encapsula o recurso **Transações PIX** da API Asaas. Permite listar. em `v3/pix/transactions`.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/pix/transactions` (Laravel) / `v3/pix/transactions`, `v3/pix/qrCodes/pay`, `v3/pix/qrCodes/decode` (Java)
+- **API Asaas:** `v3/pix/transactions`
 
 ---
 

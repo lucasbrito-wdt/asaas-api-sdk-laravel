@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Transferências** da API Asaas. No Laravel expõe listagem; no Java inclui listar, transferir para outra instituição/conta PIX, transferir para conta Asaas, obter e cancelar transferência.
+Serviço que encapsula o recurso **Transferências** da API Asaas. Permite listar.
 
 ---
 

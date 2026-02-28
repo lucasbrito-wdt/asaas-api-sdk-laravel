@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Webhooks** da API Asaas. No Laravel expõe listagem; no Java inclui criar, obter, atualizar e remover webhooks.
+Serviço que encapsula o recurso **Webhooks** da API Asaas. Permite listar.
 
 ---
 

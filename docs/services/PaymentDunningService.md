@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Inadimplência** (payment dunning) da API Asaas. No Laravel expõe listagem; no Java inclui criar, simular, obter, histórico, pagamentos parciais, pagamentos disponíveis para negociação, documentos e cancelar.
+Serviço que encapsula o recurso **Inadimplência** (payment dunning) da API Asaas. Permite listar.
 
 ---
 

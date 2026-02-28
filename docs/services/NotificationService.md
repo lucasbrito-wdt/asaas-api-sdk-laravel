@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Notificações** da API Asaas. Permite listar notificações. No Java inclui obter uma notificação e atualizar em lote.
+Serviço que encapsula o recurso **Notificações** da API Asaas. Permite listar notificações.
 
 ---
 

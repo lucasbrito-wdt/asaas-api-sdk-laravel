@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Cartão de crédito** da API Asaas. No Laravel expõe listagem; no Java expõe apenas tokenização de cartão (tokenizeCreditCard).
+Serviço que encapsula o recurso **Cartão de crédito** da API Asaas. Permite listar.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/creditCard` (Laravel) / `v3/creditCard/tokenizeCreditCard` (Java)
+- **API Asaas:** `v3/creditCard`
 
 ---
 

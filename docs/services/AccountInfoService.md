@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Informações da conta** (myAccount) da API Asaas. No Laravel expõe listagem; no Java inclui dados comerciais, configuração de checkout, número da conta, taxas, status e carteiras.
+Serviço que encapsula o recurso **Informações da conta** (myAccount) da API Asaas. Permite listar.
 
 ---
 

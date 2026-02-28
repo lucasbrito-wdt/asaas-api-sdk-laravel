@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **PIX** da API Asaas. No Laravel expõe listagem; no Java inclui chaves de endereço (addressKeys), QR codes estáticos e token bucket.
+Serviço que encapsula o recurso **PIX** da API Asaas. Permite listar.
 
 ---
 

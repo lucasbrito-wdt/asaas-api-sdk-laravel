@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Chargebacks** da API Asaas. Permite listar chargebacks. No Java inclui disputar chargeback e criar chargeback em um pagamento.
+Serviço que encapsula o recurso **Chargebacks** da API Asaas. Permite listar chargebacks.
 
 ---
 

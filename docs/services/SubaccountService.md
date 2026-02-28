@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Subcontas** (accounts) da API Asaas. No Laravel expõe listagem em `v3/accounts`; no Java inclui listar, criar, obter e configurar escrow da subconta.
+Serviço que encapsula o recurso **Subcontas** (accounts) da API Asaas. Permite listar. em `v3/accounts`.
 
 ---
 

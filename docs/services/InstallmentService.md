@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Parcelamentos** (installments) da API Asaas. Permite listar parcelamentos. No Java inclui criar, obter, atualizar, listar pagamentos, carnê, reembolso e splits.
+Serviço que encapsula o recurso **Parcelamentos** (installments) da API Asaas. Permite listar parcelamentos.
 
 ---
 

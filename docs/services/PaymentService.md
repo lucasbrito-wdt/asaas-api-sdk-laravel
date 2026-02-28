@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Cobranças (Payments)** da API Asaas. Permite listar, criar, obter, atualizar e remover cobranças. O SDK Java expõe ainda métodos adicionais (captura de pagamento autorizado, pagamento com cartão, reembolso, PIX, recebimento em dinheiro, simulação, escrow, etc.).
+Serviço que encapsula o recurso **Cobranças (Payments)** da API Asaas. Permite listar, criar, obter, atualizar e remover cobranças.
 
 ---
 
@@ -53,10 +53,10 @@ $list = $paymentService->list(['limit' => 10, 'offset' => 0, 'customer' => 'cus_
 
 // create
 $payment = $paymentService->create([
-    'customer' => 'cus_xxx',
-    'billingType' => 'BOLETO',
-    'value' => 100.00,
-    'dueDate' => '2025-03-15',
+ 'customer' => 'cus_xxx',
+ 'billingType' => 'BOLETO',
+ 'value' => 100.00,
+ 'dueDate' => '2025-03-15',
 ]);
 
 // get

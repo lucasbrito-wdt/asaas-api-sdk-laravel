@@ -2,13 +2,13 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Documentos de pagamento** da API Asaas. No Laravel expõe listagem; no Java inclui listar, criar, obter, atualizar e remover documentos de um pagamento.
+Serviço que encapsula o recurso **Documentos de pagamento** da API Asaas. Permite listar.
 
 ---
 
 ## Endpoint base
 
-- **API Asaas:** `v3/paymentDocuments` (Laravel) / `v3/payments/{id}/documents` (Java)
+- **API Asaas:** `v3/paymentDocuments`
 
 ---
 

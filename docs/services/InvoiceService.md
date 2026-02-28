@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Notas fiscais / Faturas** (invoices) da API Asaas. Permite listar faturas. No Java inclui criar, obter, atualizar, autorizar e cancelar.
+Serviço que encapsula o recurso **Notas fiscais / Faturas** (invoices) da API Asaas. Permite listar faturas.
 
 ---
 

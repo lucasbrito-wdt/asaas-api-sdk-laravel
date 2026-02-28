@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Serviço que encapsula o recurso **Clientes** da API Asaas. Permite listar, criar, obter, atualizar e remover clientes (customers), além de restaurar clientes removidos e listar notificações de um cliente no SDK Java.
+Serviço que encapsula o recurso **Clientes** da API Asaas. Permite listar, criar, obter, atualizar e remover clientes (customers), além de restaurar clientes removidos e listar notificações de um cliente.
 
 ---
 
@@ -61,9 +61,9 @@ $list = $customerService->list(['limit' => 10, 'offset' => 0, 'email' => 'client
 
 // create
 $customer = $customerService->create([
-    'name' => 'João Silva',
-    'cpfCnpj' => '12345678909',
-    'email' => 'joao@example.com',
+ 'name' => 'João Silva',
+ 'cpfCnpj' => '12345678909',
+ 'email' => 'joao@example.com',
 ]);
 
 // get
