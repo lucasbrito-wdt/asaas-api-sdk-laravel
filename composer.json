@@ -1,5 +1,5 @@
 {
-    "name": "@luquinhasbrito/asaas-api-sdk-laravel",
+    "name": "luquinhasbrito/asaas-api-sdk-laravel",
     "description": "SDK Laravel para a API Asaas v3 - cliente HTTP com retry, serviços, Models e Form Requests",
     "type": "library",
     "license": "MIT",
